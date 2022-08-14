@@ -1,3 +1,1 @@
-# ipratted
-
-ipratted.pages.dev
+#ipratted
